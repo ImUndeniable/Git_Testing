@@ -13,7 +13,9 @@ func main(){
 	var b int = 6
 	var result = Add(a,b)
 	fmt.Println(result)
-	
+	// return multiple values
+	var add, sub = AddSub(a,b)
+	fmt.Println(add,sub)
 
 }
 
@@ -28,3 +30,10 @@ func Add(a int ,  b int) int{
 	var result int = a + b
 	return result
 } 
+
+// retun multiple function values
+func AddSub(c int, d int ) (int,int){
+	var add = c + d 
+	var sub = c - d 
+	return add,sub 
+}
