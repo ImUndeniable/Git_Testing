@@ -1,3 +1,4 @@
 Hello
 
 Hi. Im trying out new merge request with PR
+hi I'm playing with git merge
