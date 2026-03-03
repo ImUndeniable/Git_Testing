@@ -1,5 +1,3 @@
 Hello
 
-watha dei
-
-watha dei sappu
+hi I'm playing with git merge
