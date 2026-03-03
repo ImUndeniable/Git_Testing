@@ -1,5 +1,3 @@
 Hello
 
-watha dei
-
-watha dei sappu
+Hi. Im trying out new merge request with PR
